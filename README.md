@@ -1,2 +1,3 @@
 # Chess-
-Course project chess by MaskimIMMERSION
+Курсова робота шахи
+Виконав Максим Писюк 24 гр
