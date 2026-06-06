@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0441\u002B\u002B\\chess\\c\u002B\u002B\\Chess3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B7D73D-695C-4B42-AA87-EAEAEE5A906F}|Chess3\\Chess3.vcxproj|D:\\\u0441\u002B\u002B\\chess\\c\u002B\u002B\\Chess3\\Chess3\\Chess3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1B7D73D-695C-4B42-AA87-EAEAEE5A906F}|Chess3\\Chess3.vcxproj|solutionrelative:Chess3\\Chess3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chess3.cpp",
+              "DocumentMoniker": "D:\\\u0441\u002B\u002B\\chess\\c\u002B\u002B\\Chess3\\Chess3\\Chess3.cpp",
+              "RelativeDocumentMoniker": "Chess3\\Chess3.cpp",
+              "ToolTip": "D:\\\u0441\u002B\u002B\\chess\\c\u002B\u002B\\Chess3\\Chess3\\Chess3.cpp",
+              "RelativeToolTip": "Chess3\\Chess3.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAG0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T13:01:32.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
